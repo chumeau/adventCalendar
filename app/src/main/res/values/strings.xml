@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AdventCalendar</string>
+    <string name="dec_1">1er Décembre</string>
+    <string name="dec_2">2 Décembre</string>
+    <string name="dec_3">3 Décembre</string>
+    <string name="dec_4">4 Décembre</string>
+    <string name="dec_5">5 Décembre</string>
+    <string name="dec_6">6 Décembre</string>
+    <string name="dec_7">7 Décembre</string>
+    <string name="dec_8">8 Décembre</string>
+    <string name="dec_9">9 Décembre</string>
+    <string name="dec_10">10 Décembre</string>
+    <string name="dec_11">11 Décembre</string>
+    <string name="dec_12">12 Décembre</string>
+    <string name="dec_13">13 Décembre</string>
+    <string name="dec_14">14 Décembre</string>
+    <string name="dec_15">15 Décembre</string>
+    <string name="dec_16">16 Décembre</string>
+    <string name="dec_17">17 Décembre</string>
+    <string name="dec_18">18 Décembre</string>
+    <string name="dec_19">19 Décembre</string>
+    <string name="dec_20">20 Décembre</string>
+    <string name="dec_21">21 Décembre</string>
+    <string name="dec_22">22 Décembre</string>
+    <string name="dec_23">23 Décembre</string>
+    <string name="dec_24">24 Décembre</string>
+    <string name="dec_25">25Décembre</string>
+    <string name="gif_christmas_tree"> Sapin de noël gif</string>
+    <string name="noel">Noël</string>
+    <string name="nouvel_an">Nouvel An</string>
+    <string name="sapin">Sapin</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="bonne_annee">Bonne Année !</string>
+</resources>
